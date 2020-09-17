@@ -10,11 +10,11 @@ export const getGifs = async (categorye) => {
             id: imgs.id,
             title: imgs.title,
             url: imgs.images.downsized_medium.url,
-            img : [1,2,3,4]
+            
         }
     })
 
-    console.log(gift)
+   
     console.log(gift)
     
     return gift
