@@ -15,6 +15,7 @@ export const getGifs = async (categorye) => {
     })
 
     console.log(gift)
+    console.log(gift)
     
     return gift
 
